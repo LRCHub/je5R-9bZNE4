@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Hat on your Head！",
+  "base_artist": "ライスシャワー (CV. 石見舞菜香)、ミスターシービー (CV. 天海由梨奈)、マチカネタンホイザ (CV. 遠野ひかる)、シュヴァルグラン (CV. 夏吉ゆうこ)、ホッコータルマエ (CV. 菊池紗矢香)",
+  "createdAt": "2025-12-12T20:52:45.485202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hat on Your Head!",
+      "artist": "Rice Shower (CV: Manaka Iwami)",
+      "has_synced": false,
+      "path": "select/01_Hat_on_Your_Head!_Rice_Shower_(CV__Manaka_Iwami).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hat on Your Head! (Off Vocal)",
+      "artist": "Rice Shower (CV: Manaka Iwami)",
+      "has_synced": false,
+      "path": "select/02_Hat_on_Your_Head!_(Off_Vocal)_Rice_Shower_(CV__Manaka_Iwami).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hat on Your Head!",
+      "artist": "Rice Shower (CV: Manaka Iwami), Mr. C.B. (CV: Yurina Amami), Matikanetannhauser (CV: Hikaru Tono), Cheval Grand (CV: Yuko Natsuyoshi) & Hokko Tarumae (CV: Sayaka Kikuchi)",
+      "has_synced": true,
+      "path": "select/03_Hat_on_Your_Head!_Rice_Shower_(CV__Manaka_Iwami),_Mr._C.B._(CV__Yurina_Amami),_Matikanetannhauser_.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hat on your Head!",
+      "artist": "ライスシャワー (CV. 石見舞菜香), ミスターシービー (CV. 天海由梨奈), マチカネタンホイザ (CV. 遠野ひかる), シュヴァルグラン (CV. 夏吉ゆうこ), ホッコータルマエ (CV. 菊池紗矢香)",
+      "has_synced": false,
+      "path": "select/pl_01_Hat_on_your_Head!_ライスシャワー_(CV._石見舞菜香),_ミスターシービー_(CV._天海由梨奈),_マチカネタンホイザ_(CV._遠野ひかる),_シュヴァルグラン_(CV._.txt"
+    }
+  ]
+}
